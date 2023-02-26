@@ -39,5 +39,8 @@ public class Oeracion {
         
         return a / b;
     }
+public double potenciacion() {
+    return Math.pow(a, b);
+}
   
 }
